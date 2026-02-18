@@ -1,6 +1,6 @@
 # Imagine Pro - AI 绘图生成器 (PHP版)
 
-![Project Preview](./2026-02-18%20201535.jpg)
+![Project Preview](./2026-02-18%20201535.png)
 
 **Imagine Pro** 是一个轻量级的 AI 生图 Web 页面。基于 PHP 构建，接入了 **讯飞星辰 MaaS** 的文生图 API。它提供了一个极简但功能强大的暗色系界面，允许用户通过调整参数生成高质量的 AI 图像。
 
@@ -25,7 +25,7 @@
 2. 创建应用并开通 **文生图** 相关模型服务。
 3. 获取 `APPID`, `APIKey`, `APISecret`。
 
-![MaaS Platform](./2026-02-18%20201828.jpg)
+![MaaS Platform](./2026-02-18%20201828.png)
 > *图：讯飞星辰 MaaS 模型广场，您可以在此查看可用模型*
 
 ### 2. 安装与配置
